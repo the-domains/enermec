@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A Smart Package Monitoring System
-datePublished: '2016-03-24T22:39:02.844Z'
-dateModified: '2016-03-24T22:38:26.330Z'
+datePublished: '2016-03-24T22:42:43.852Z'
+dateModified: '2016-03-24T22:40:03.334Z'
 title: MACE Monitoring System
 author: []
 sourcePath: _posts/2016-03-24-mace-monitoring-system.md
