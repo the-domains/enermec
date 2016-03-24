@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A Smart Package Monitoring System
-datePublished: '2016-03-24T22:30:36.098Z'
-dateModified: '2016-03-24T22:30:11.244Z'
+datePublished: '2016-03-24T22:39:02.844Z'
+dateModified: '2016-03-24T22:38:26.330Z'
 title: MACE Monitoring System
 author: []
 sourcePath: _posts/2016-03-24-mace-monitoring-system.md
@@ -30,6 +30,7 @@ _type: Article
 ****
 
 MACE specialize in designing and manufacturing smart packaged monitoring solutions for industrial and wastewater markets, agriculture and environmental monitoring.  For over 40 years, MACE has been designing and manufacturing water flow meters, data loggers and sensors. All this experience culminates in the launch of the XCi range of flow meters and data loggers. The XCi multiple card interface provides our customers a flexible platform to connect a wide range of sensors to meet your exact monitoring requirements. Now with the addition of a MACE WebComm card you can access your data remotely and view on your PC or smartphone.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bd8fb7f-4540-43c0-982a-339fc8efd663.jpg)
 
 XCi smart package monitoring system that provides flexible and expandable site monitoring all housed in a rugged lockable enclosure. Battery, solar panels, and our unique multiple card interface enable the user to control and log multiple sensors remotely from a single XCi device.  It can be used to monitor vital farm equipment and on-farm sensors. Use the versatility of XCi to monitor inputs as diverse as: irrigation flows; farm wastewater flows; water quality; dam & reservoir levels and flows; soil moisture; pump and engine management systems.
 
