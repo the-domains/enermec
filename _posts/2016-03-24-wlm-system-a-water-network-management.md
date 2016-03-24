@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: WLM-System Virtual DMA Water Network Management
-datePublished: '2016-03-24T23:02:53.819Z'
-dateModified: '2016-03-24T23:01:46.901Z'
+datePublished: '2016-03-24T23:03:38.989Z'
+dateModified: '2016-03-24T23:03:30.722Z'
 title: "WLM-System\_"
 author: []
 sourcePath: _posts/2016-03-24-wlm-system-a-water-network-management.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ****
 
-# WLM-System ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e350fab-ba47-4405-95d9-d93d58187218.png)
+# WLM-System 
 
 ## a Water Network Management
 
