@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-24T23:45:34.228Z'
-dateModified: '2016-03-24T23:45:14.993Z'
+datePublished: '2016-03-24T23:51:37.798Z'
+dateModified: '2016-03-24T23:49:48.146Z'
 title: MACE Monitoring System
 author: []
+sourcePath: _posts/2016-03-24-mace-monitoring-system.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-mace-monitoring-system.md
-published: true
 url: mace-monitoring-system/index.html
 _type: Article
 
