@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T15:37:08.337Z'
-dateModified: '2016-03-25T15:36:44.112Z'
+datePublished: '2016-03-25T15:47:13.402Z'
+dateModified: '2016-03-25T15:45:16.368Z'
 title: MACE Monitoring System
 author: []
 sourcePath: _posts/2016-03-24-mace-monitoring-system.md
