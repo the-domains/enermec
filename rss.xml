@@ -4,8 +4,15 @@
         <description><![CDATA[ENERMEC]]></description>
         <link>https://thegrid.ai/enermec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 15:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 15:32:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/enermec/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MACE Monitoring System]]></title>
+            <description><![CDATA[<article><h1>MACE Monitoring System</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03adcd9f5e69080a391c903115add9e6f790dd2f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/enermec/mace-monitoring-system/index.html</link>
+            <guid isPermaLink="false">9ca05dce-2cd0-4417-9dba-414313ec3735</guid>
+            <pubDate>Fri, 25 Mar 2016 15:32:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smith & Loveless WWMPS]]></title>
             <description><![CDATA[<article><h1>Smith & Loveless WWMPS</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83c45d69-a834-496c-93da-6871512abac5.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/enermec/contact/index.html</link>
             <guid isPermaLink="false">27241ed8-2872-4f8b-a5c9-27e7d5e945b2</guid>
             <pubDate>Fri, 25 Mar 2016 15:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MACE Monitoring System]]></title>
-            <description><![CDATA[<article><h1>MACE Monitoring System</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03adcd9f5e69080a391c903115add9e6f790dd2f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/enermec/mace-monitoring-system/index.html</link>
-            <guid isPermaLink="false">9ca05dce-2cd0-4417-9dba-414313ec3735</guid>
-            <pubDate>Fri, 25 Mar 2016 15:13:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
