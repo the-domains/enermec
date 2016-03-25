@@ -4,7 +4,7 @@
         <description><![CDATA[ENERMEC]]></description>
         <link>https://thegrid.ai/enermec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 15:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 15:27:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/enermec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WLM-System]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/enermec/wlm-system/index.html</link>
             <guid isPermaLink="false">62ad44b6-5197-47b1-bad8-a0d48f021135</guid>
             <pubDate>Thu, 24 Mar 2016 23:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/166c743ab58219c04a6034cd0a2de496f0a7f41e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/enermec/contact/index.html</link>
+            <guid isPermaLink="false">27241ed8-2872-4f8b-a5c9-27e7d5e945b2</guid>
+            <pubDate>Fri, 25 Mar 2016 15:27:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MACE Monitoring System]]></title>
