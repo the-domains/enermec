@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Wet Well Mounted Pump Stations
-datePublished: '2016-03-24T23:51:30.061Z'
-dateModified: '2016-03-24T23:50:11.237Z'
+datePublished: '2016-03-25T15:32:00.758Z'
+dateModified: '2016-03-25T15:31:13.871Z'
 title: 'Smith & Loveless WWMPS'
 author: []
 sourcePath: _posts/2016-03-24-smith-and-loveless-wwmps.md
