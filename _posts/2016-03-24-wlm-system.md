@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "WLM-System is a unique instrumentation/analytic system capable to perform hydraulic survey, flow and pressure profile analysis. \_Also, the system is made for water loss monitoring by automatic leak zone generation creating a Virtual Zone, which enables sustainable reduction of loss water. \_The system is an active support for strategic leak detection."
-datePublished: '2016-03-25T15:42:20.422Z'
-dateModified: '2016-03-25T15:42:15.706Z'
+datePublished: '2016-03-25T15:42:34.217Z'
+dateModified: '2016-03-25T15:42:29.072Z'
 title: WLM-System
 author: []
 sourcePath: _posts/2016-03-24-wlm-system.md
