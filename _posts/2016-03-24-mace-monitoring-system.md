@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T15:32:08.178Z'
-dateModified: '2016-03-25T15:31:30.370Z'
+datePublished: '2016-03-25T15:37:08.337Z'
+dateModified: '2016-03-25T15:36:44.112Z'
 title: MACE Monitoring System
 author: []
 sourcePath: _posts/2016-03-24-mace-monitoring-system.md
