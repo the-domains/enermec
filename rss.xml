@@ -4,7 +4,7 @@
         <description><![CDATA[ENERMEC]]></description>
         <link>https://thegrid.ai/enermec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 22:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 14:13:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/enermec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WLM-System]]></title>
@@ -32,7 +32,7 @@
             <description><![CDATA[<article><h1>Contact</h1><p>Water Management Technologies</p></article>]]></description>
             <link>https://thegrid.ai/enermec/contact/index.html</link>
             <guid isPermaLink="false">27241ed8-2872-4f8b-a5c9-27e7d5e945b2</guid>
-            <pubDate>Fri, 25 Mar 2016 22:39:51 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 14:13:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
