@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Wet Well Mounted Pump Stations
-datePublished: '2016-03-25T15:37:17.816Z'
-dateModified: '2016-03-25T15:37:14.474Z'
-title: 'Smith & Loveless WWMPS'
+description: ''
+datePublished: '2016-05-13T21:54:09.856Z'
+dateModified: '2016-05-13T21:54:09.379Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-24-smith-and-loveless-wwmps.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: smith-and-loveless-wwmps/index.html
 _type: Article
 
@@ -31,7 +30,7 @@ _type: Article
 
 ****
 
-Smith & Loveless provides its customers a superior pump station experience. Decades of efficient, hassle-free performance is the hallmark of Smith & Loveless Pump Stations... but the total experience begins well before installation. As the industry pioneer of factory-built pump stations---and single-source responsibility---more than 60 years ago, we support projects from the initial pre-design phase all the way through the life of the installation.  Superior S&L Non-Clog Pump design and manufacturing result in longer service life and lower life-cycle costs - proven to be more than 50% vs. submersible pump stations. People who depend on our products deserve nothing less.
+Smith & Loveless provides its customers a superior pump station experience. Decades of efficient, hassle-free performance is the hallmark of Smith & Loveless Pump Stations... but the total experience begins well before installation. As the industry pioneer of factory-built pump stations---and single-source responsibility---more than 60 years ago, we support projects from the initial pre-design phase all the way through the life of the installation. Superior S&L Non-Clog Pump design and manufacturing result in longer service life and lower life-cycle costs - proven to be more than 50% vs. submersible pump stations. People who depend on our products deserve nothing less.
 
 Features
 
