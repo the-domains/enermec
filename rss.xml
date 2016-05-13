@@ -4,11 +4,18 @@
         <description><![CDATA[ENERMEC]]></description>
         <link>https://thegrid.ai/enermec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 14:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 21:53:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/enermec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[WLM-System]]></title>
-            <description><![CDATA[<article><h1>WLM-System</h1><p>WLM-System is a unique instrumentation/analytic system capable to perform hydraulic survey, flow and pressure profile analysis.  Also, the system is made for water loss monitoring by automatic leak zone generation creating a Virtual Zone, which enables sustainable reduction of loss water.  The system is an active support for strategic leak detection.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb4301fd-1aab-4536-aa49-c33cc871187d.png"></article>]]></description>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<p>Water Management Technologies</p>]]></description>
+            <link>https://thegrid.ai/enermec/contact/index.html</link>
+            <guid isPermaLink="false">27241ed8-2872-4f8b-a5c9-27e7d5e945b2</guid>
+            <pubDate>Fri, 13 May 2016 21:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Water Distribution Network Leakage Management]]></title>
+            <description><![CDATA[<article><h1>Water Distribution Network Leakage Management</h1><p>WLM-System is a unique instrumentation/analytic system capable to perform hydraulic survey, flow and pressure profile analysis.  Also, the system is made for water loss monitoring by automatic leak zone generation creating a Virtual Zone, which enables sustainable reduction of loss water.  The system is an active support for strategic leak detection.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb4301fd-1aab-4536-aa49-c33cc871187d.png"></article>]]></description>
             <link>https://thegrid.ai/enermec/wlm-system/index.html</link>
             <guid isPermaLink="false">62ad44b6-5197-47b1-bad8-a0d48f021135</guid>
             <pubDate>Fri, 25 Mar 2016 15:42:34 GMT</pubDate>
@@ -22,17 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Smith & Loveless WWMPS]]></title>
-            <description><![CDATA[<article><h1>Smith & Loveless WWMPS</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83c45d69-a834-496c-93da-6871512abac5.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83c45d69-a834-496c-93da-6871512abac5.jpg">]]></description>
             <link>https://thegrid.ai/enermec/smith-and-loveless-wwmps/index.html</link>
             <guid isPermaLink="false">721333b7-ac12-4096-8cda-47ba63ce9622</guid>
             <pubDate>Fri, 25 Mar 2016 15:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>Water Management Technologies</p></article>]]></description>
-            <link>https://thegrid.ai/enermec/contact/index.html</link>
-            <guid isPermaLink="false">27241ed8-2872-4f8b-a5c9-27e7d5e945b2</guid>
-            <pubDate>Sat, 26 Mar 2016 14:13:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
