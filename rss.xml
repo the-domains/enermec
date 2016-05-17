@@ -4,8 +4,15 @@
         <description><![CDATA[ENERMEC]]></description>
         <link>https://thegrid.ai/enermec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 21:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 21:39:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/enermec/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<p>Water Management Technologies</p>]]></description>
+            <link>https://thegrid.ai/enermec/contact/index.html</link>
+            <guid isPermaLink="false">27241ed8-2872-4f8b-a5c9-27e7d5e945b2</guid>
+            <pubDate>Tue, 17 May 2016 21:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smith & Loveless WWMPS]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83c45d69-a834-496c-93da-6871512abac5.jpg">]]></description>
